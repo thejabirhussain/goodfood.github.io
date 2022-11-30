@@ -10,16 +10,16 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,200;1,400&display=swap" rel="stylesheet">    
   <link href ="style.css" rel="stylesheet" type="text/css" >
    </head>
-   <body background-color=>
-     <header id="main-header">
-       <div class = "container">
-   <a href=""><img src="![food logo](https://user-images.githubusercontent.com/118990335/204854936-918fde03-0552-4ae2-bb97-40f8000d2fc4.jpg)
+<body background-color=>
+<header id="main-header">
+<div class = "container">
+<a href=""><img src="![food logo](https://user-images.githubusercontent.com/118990335/204854936-918fde03-0552-4ae2-bb97-40f8000d2fc4.jpg)
 " alt="digital kithen"height=125></a>
-         <h1>Food that radiates love</h1>
-         <h2>platform for foodies<h2>
+ <h1>Food that radiates love</h1>
+ <h2>platform for foodies<h2>
   <a href="#our-food" class="btn">delicious food!!!</a>
-       </div>
-     </header>
+</div> 
+</header>
      <section id="our-food">
        <div class ="container">
          <header>
@@ -60,10 +60,10 @@
            <p class="section-into">contact us</p>
            <h3>Enter details</h3>
          </header>
-         <form action=""method="post">
+         <form action="" method="post">
            <div>
              <label for="contact-name">Full name</label>
-             <input type="text"name="contact-name"id="contact-name">
+             <input type="text" name="contact-name" id="contact-name">
            </div>
            <div>
              <label for="contact-email">Email address</label>
