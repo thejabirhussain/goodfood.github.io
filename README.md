@@ -13,7 +13,8 @@
    <body background-color=>
      <header id="main-header">
        <div class = "container">
-         <a href=""><img src="/food logo.jpeg" alt="digital kithen"height=125></a>
+   <a href=""><img src="![food logo](https://user-images.githubusercontent.com/118990335/204854936-918fde03-0552-4ae2-bb97-40f8000d2fc4.jpg)
+" alt="digital kithen"height=125></a>
          <h1>Food that radiates love</h1>
          <h2>platform for foodies<h2>
   <a href="#our-food" class="btn">delicious food!!!</a>
