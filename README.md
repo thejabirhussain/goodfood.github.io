@@ -82,7 +82,7 @@
 <div class="container">
 <p class="section-intro">visit our digital kicthken</p>
 <h3 class="large">contact:94416326</h3>
-<p class="large">MITS Collage,Chitoor</p>
+<p class="large">MITS College,Chitoor</p>
 <ul class="social-icons">
 <li>
 <a href=""><img src="/insta.jpeg"alt="insta"height=25></a>
