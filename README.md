@@ -13,7 +13,7 @@
 <body>
 <header id="main-header">
 <div class = "container">
-<a href=""><img src="/food logo.png" alt="digital kithen"height=125></a>
+<a href=""><img src="food logo.png" alt="digital kithen"height=125></a>
  <h1>Food that radiates love</h1>
  <h2>platform for foodies<h2>
   <a href="#our-food" class="btn">delicious food!!!</a>
@@ -28,21 +28,21 @@
 </header>
 <div class="gallery">
 <div>
-<img src="/pizza.jpeg"alt="pizza">
+<img src="pizza.jpeg"alt="pizza">
 <p class="number">01</p>
 <h4>chicken cheese crust pizza</h4>
 <p>This pizza consists of chesse in the fill with chicken and bell pepper topping filled with creme of joy</p>
 <p>5000/-</p>  
 </div>
 <div>
-<img src="/burger.jpeg"alt="pizza">
+<img src="burger.jpeg"alt="pizza">
 <p class="number">02</p>
 <h4>meat marinatted burger</h4>
 <p>Burger with the 4 meat patties with extra moyonies</p>
  <p>4000/-</p>  
 </div>
 <div>
-<img src="/chicken.jpeg"alt="pizza">
+<img src="chicken.jpeg"alt="pizza">
 <p class="number">03</p>
 <h4>chicken wings</h4>
 <p>deep fried chicken with schzwhan sauce</p>
