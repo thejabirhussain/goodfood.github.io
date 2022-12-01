@@ -65,11 +65,11 @@
 </div>
 <div>
 <label for="contact-email">Email address</label>
-<input type="email"name="contact-email"id="contact-email">
+<input type="email"name="contact-email" placeholder="Email" id="contact-email">
 </div>
 <div>
 <label for="contact-review">Review</label>
-<textarea name="contact-review"id="contact-review" cols="30" rows="10"></textarea>
+<textarea name="contact-review" placeholder="Review"id="contact-review" cols="30" rows="10"></textarea>
 </div>
 <div>
 <button class="btn">Send review</button>
